@@ -10,6 +10,11 @@
     <p id="diemtb"></p>
     <button type="button" onclick="TinhDiemTB()">Nhập điểm các môn</button>
 
+
+    <h2>Bài toán tính điểm trung bình các môn</h2>
+    <p id="chuyendoi"></p>
+    <button type="button" onclick="chuyendoiCF()">Nhập số *C</button>
+
     <script>
         function TinhDiemTB() {
             let ly = prompt("Nhẩm điểm môn Lý")
@@ -19,6 +24,17 @@
             diemTB = (eval(ly) + eval( hoa) + eval(sinh))/3
             document.getElementById('diemtb').innerHTML = "Điểm 3 môn Lý = "+ ly+", Hóa = "+ hoa +", Sinh = "+sinh+"<br> Kết quả trung bình ="+ diemTB.toFixed(2)
 
+        }
+        
+        function chuyendoiCF() {
+            let C = prompt("Nhập số độ C cần chuyển")
+            let F
+            F = (9*C)/5 + 32
+            document.getElementById("chuyendoi").innerHTML = C+"*C = "+F+"*F"
+        }
+        
+        function f() {
+            
         }
     </script>
 </body>
