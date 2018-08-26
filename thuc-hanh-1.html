@@ -15,6 +15,14 @@
     <p id="chuyendoi"></p>
     <button type="button" onclick="chuyendoiCF()">Nhập số *C</button>
 
+
+    <h2>Bài toán tính diện tích hình tròn</h2>
+    <p id="chuvi"></p>
+    <p id="dientich"></p>
+    <button type="button" onclick="chuvi_dientich()">Thông số hình tròn</button>
+
+
+
     <script>
         function TinhDiemTB() {
             let ly = prompt("Nhẩm điểm môn Lý")
@@ -33,9 +41,16 @@
             document.getElementById("chuyendoi").innerHTML = C+"*C = "+F+"*F"
         }
         
-        function f() {
-            
+        function chuvi_dientich() {
+            let r = prompt("Nhập bán kính hình tròn");
+            let chuvi, dientich;
+            const pi = 3.14;
+            chuvi = 2* r * pi;
+            dientich = r*r*pi;
+            document.getElementById("chuvi").innerHTML = "Bán kính hình tròn = "+r+"<br><br> Chu vi = "+ chuvi.toFixed(2);
+            document.getElementById("dientich").innerHTML = "Diện tích = "+dientich.toFixed(2);
         }
+
     </script>
 </body>
 </html>
