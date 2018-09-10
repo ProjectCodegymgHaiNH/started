@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d69620b-7518-4df4-99bf-ef39f83b09c9" name="Default Changelist" comment="">
+    <list default="true" id="6d69620b-7518-4df4-99bf-ef39f83b09c9" name="Default Changelist" comment="Bài tập&#10;Ứng dụng máy tính">
+      <change afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh_khai_bao_va_su_dung_bien.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ung-dung-may-tinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/ung-dung-may-tinh.html" afterDir="false" />
+    </list>
+    <list id="fe18efc8-ee85-4fc0-b281-4e53936ad32d" name="Them function chuyen doi do C-F" comment="Them function tinh chu vi, dien tich hinh tron">
+      <changelist_data name="=" email="=" date="1535268555000">
+        <option name="date" value="1535268555000" />
+        <option name="email" value="=" />
+        <option name="name" value="=" />
+      </changelist_data>
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,35 +27,39 @@
     <session id="1093003488">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
-          <entry key="html" value="1" />
+          <entry key="gitignore" value="3" />
+          <entry key="html" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="HTML" value="6" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="6" />
-          <entry key="html" value="623" />
+          <entry key="html" value="5325" />
+          <entry key="txt" value="207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="623" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="HTML" value="5325" />
+          <entry key="PLAIN_TEXT" value="213" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -53,11 +67,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/thuc-hanh-1.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ung-dung-may-tinh.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="85">
+              <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thuc_hanh_khai_bao_va_su_dung_bien.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="36" column="101" selection-start-line="36" selection-start-column="101" selection-end-line="36" selection-end-column="101" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +93,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -86,8 +121,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thuc-hanh-1.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/thuc-hanh-1.html" />
+        <option value="$PROJECT_DIR$/ung-dung-chuyen-doi-tien-te.html" />
+        <option value="$PROJECT_DIR$/ung-dung-may-tinh.html" />
+        <option value="$PROJECT_DIR$/new.html" />
+        <option value="$PROJECT_DIR$/thuc_hanh_khai_bao_va_su_dung_bien.html" />
       </list>
     </option>
   </component>
@@ -109,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,11 +159,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -153,17 +193,90 @@
       <updated>1535169091987</updated>
       <workItem from="1535169094731" duration="4080000" />
       <workItem from="1535265261467" duration="595000" />
-      <workItem from="1535265900609" duration="897000" />
+      <workItem from="1535265900609" duration="11751000" />
+      <workItem from="1535340606191" duration="8377000" />
+      <workItem from="1535354121622" duration="7189000" />
+      <workItem from="1535374137677" duration="89000" />
+      <workItem from="1535374260669" duration="38000" />
+      <workItem from="1535379319461" duration="558000" />
+      <workItem from="1535428980020" duration="2980000" />
+      <workItem from="1536567048571" duration="203000" />
+      <workItem from="1536567268743" duration="1020000" />
     </task>
+    <task id="LOCAL-00001" summary="THêm workspace">
+      <created>1535267174832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535267174832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Them function chuyen doi do C-F">
+      <created>1535268555087</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535268555087</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Them function chuyen doi do C-F">
+      <created>1535270435432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535270435432</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Them function tinh chu vi dien tich hinh tron">
+      <created>1535270626271</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535270626271</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Them function tinh chu vi dien tich hinh tron">
+      <created>1535270644406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535270644406</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Bài tính tỷ giá USD và VND">
+      <created>1535303773580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1535303773580</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bài tập&#10;Ứng dụng máy tính">
+      <created>1535348756783</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1535348756783</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1535356303722</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1535356303722</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Bài tập Ứng dụng máy tính">
+      <created>1535356506235</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1535356506235</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5572000" />
+    <option name="totallyTimeSpent" value="36880000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="419" y="30" width="972" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28907922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20089285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -174,8 +287,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.36036035" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32792792" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.36006546" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.29787233" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -215,13 +328,36 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="THêm workspace" />
+    <MESSAGE value="Them function chuyen doi do C-F" />
+    <MESSAGE value="Them function tinh chu vi dien tich hinh tron" />
+    <MESSAGE value="Bài tính tỷ giá USD và VND" />
+    <MESSAGE value="Bài tập&#10;Ứng dụng máy tính" />
+    <MESSAGE value="update" />
+    <MESSAGE value="Bài tập Ứng dụng máy tính" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bài tập Ứng dụng máy tính" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ung-dung-chuyen-doi-tien-te.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/thuc-hanh-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="393">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ung-dung-may-tinh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -229,6 +365,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thuc_hanh_khai_bao_va_su_dung_bien.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="36" column="101" selection-start-line="36" selection-start-column="101" selection-end-line="36" selection-end-column="101" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

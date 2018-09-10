@@ -5,48 +5,47 @@
     <title>Ứng dụng máy tính</title>
 </head>
 <body>
-    <form action="#" method="post">
+    <form action="#" method="post" >
         <b>Nhập phép tính</b>
-        <input type="text" id="so1">
-        <input type="text" id="so2">
+        <input type="text" name="so1" id="so1" >
+        <input type="text" name="so2" id="so2">
         <br><br>
-        <button type="button" id="1" value="cong" onclick="hamcong()" >Phép +</button>
-        <button type="button" id="2" value="tru" onclick="hamtru()"  >Phép -</button>
-        <button type="button" id="3"  value="nhan"  onclick="hamnhan()" >Phép *</button>
-        <button type="button" id="4"  value="chia"  onclick="hamchia()" >Phép /</button>
-        <br>
-        <p id="ketqua" ><b>Kết quả</b></p>
+        <input type="submit" name="1" id="1" value="Phép +" onclick="hamcong()" >
+        <input type="submit" name="2" id="2" value="Phép -" onclick="hamtru()"  >
+        <input type="submit" name="3"  value="Phép *"  onclick="hamnhan()" >
+        <input type="submit" name="4"  value="Phép /"  onclick="hamchia()" >
+        <br><br>
+        <b>Kết quả </b> <input type="text" name="kq" id="kq" value="0" disabled="disabled">
     </form>
+
+
 
 
     <script>
         let so1, so2, ketqua
-
+        so1 = document.getElementById("so1")
+        so2 = document.getElementById("so2")
         function hamcong() {
-            so1 = document.getElementById("so1").value
-            so2 = document.getElementById("so2").value
-            ketqua = eval(so1)+ eval(so2)
-            document.getElementById("ketqua").innerHTML = ketqua
+            ketqua = eval(so1.value)+ eval(so2.value)
+            alert(ketqua)
+            document.getElementById("kq").innerHTML = ketqua
         }
 
         function hamtru() {
-            so1 = document.getElementById("so1").value
-            so2 = document.getElementById("so2").value
-            ketqua = eval(so1)- eval(so2)
-            document.getElementById("ketqua").innerHTML = ketqua
+            ketqua = eval(so1.value)- eval(so2.value)
+            alert(ketqua)
+            document.getElementById("kq").innerHTML = ketqua
         }
 
         function hamnhan() {
-            so1 = document.getElementById("so1").value
-            so2 = document.getElementById("so2").value
-            ketqua = eval(so1)* eval(so2)
+            ketqua = eval(so1.value)* eval(so2.value)
+            alert(ketqua)
             document.getElementById("ketqua").innerHTML = ketqua
         }
 
         function hamchia() {
-            so1 = document.getElementById("so1").value
-            so2 = document.getElementById("so2").value
-            ketqua = eval(so1)/ eval(so2)
+            ketqua = eval(so1.value)/ eval(so2.value)
+            alert(ketqua)
             document.getElementById("ketqua").innerHTML = ketqua.toFixed(2)
         }
     </script>
